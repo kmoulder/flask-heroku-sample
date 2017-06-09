@@ -6,8 +6,5 @@
     "python",
     "sample"
   ],
-  "repository": "https://github.com/yefim/flask-heroku-sample",
-  "addons": [
-    "heroku-postgresql"
-  ]
+  "repository": "https://github.com/kmoulder/flask-heroku-sample"
 }
